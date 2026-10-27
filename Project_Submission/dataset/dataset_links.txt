@@ -1,0 +1,10 @@
+Dataset Name: NHTU-DDD (National Tsing Hua University Drowsiness Detection Dataset)
+
+The dataset used for training is too large to be included in this folder (approx 2.8 GB).
+You can download it from the official sources or request access from the research team.
+
+Potential Link: https://www.kaggle.com/datasets/banudeep/nthuddd2
+
+Folder structure used:
+- nhtuddd2/train_data/notdrowsy
+- nhtuddd2/train_data/drowsy

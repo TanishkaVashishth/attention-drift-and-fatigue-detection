@@ -1,0 +1,42 @@
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Large Datasets & Extracted Image Archives (Raw images must not be in git)
+**/nhtuddd2/
+nhtuddd2/
+*.zip
+*.tar.gz
+*.rar
+
+# Intermediate feature caches
+*.joblib
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Generated Session Reports (Preserve sample results, ignore transient runs)
+Project_Submission/deployment/reports/*
+!Project_Submission/deployment/reports/.gitkeep
+Project_Submission/code/reports/*
+!Project_Submission/code/reports/.gitkeep
